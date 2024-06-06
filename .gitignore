@@ -10,7 +10,6 @@ node_modules/
 
 # Swift artifacts
 .build/
-Package.resolved
 
 # Go artifacts
 go.sum
